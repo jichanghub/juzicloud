@@ -21,8 +21,5 @@
 ## 桔子云跑路
 目前桔子云没有跑路，可以放心使用。
 
-## 桔子云评测
-更多有关桔子云评测可访问：https://jichangzhu.com/node/juzicloud/
-
 ## 更多推荐
  - [免费分享好用的机场推荐与节点分享](https://github.com/jichanghub/jichangtuijian)
